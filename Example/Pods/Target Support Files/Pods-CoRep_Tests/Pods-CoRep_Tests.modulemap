@@ -1,0 +1,6 @@
+framework module Pods_CoRep_Tests {
+  umbrella header "Pods-CoRep_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

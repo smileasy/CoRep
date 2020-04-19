@@ -1,0 +1,6 @@
+framework module CoRep {
+  umbrella header "CoRep-umbrella.h"
+
+  export *
+  module * { export * }
+}

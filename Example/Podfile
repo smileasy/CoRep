@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'CoRep_Example' do
+  pod 'CoRep', :path => '../'
+
+  target 'CoRep_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

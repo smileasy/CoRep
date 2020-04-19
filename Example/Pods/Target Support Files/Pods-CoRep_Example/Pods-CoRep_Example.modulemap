@@ -1,0 +1,6 @@
+framework module Pods_CoRep_Example {
+  umbrella header "Pods-CoRep_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

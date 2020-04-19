@@ -1,0 +1,16 @@
+PODS:
+  - CoRep (0.1.0)
+
+DEPENDENCIES:
+  - CoRep (from `../`)
+
+EXTERNAL SOURCES:
+  CoRep:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CoRep: 322ee730c6f7416020f6fa2a427aab54a560ec58
+
+PODFILE CHECKSUM: 03126b30c71ff9679eabdac8e5d25d6e31860fa6
+
+COCOAPODS: 1.8.4
